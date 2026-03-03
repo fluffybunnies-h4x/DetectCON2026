@@ -66,14 +66,22 @@ For more information on creating policies in the Sandbox, see **Sandbox**.
 
 ## Policy Creation Example
 
+---
+
+**Open the Menu and select Policy Violations**
 <img width="652" height="326" alt="image" src="https://github.com/user-attachments/assets/412db53c-4db4-4fd8-93e1-0e95390d39f9" />
 
+---
 
+**Click the + icon to start creating a new Policy**
 <img width="412" height="158" alt="image" src="https://github.com/user-attachments/assets/94b8de81-9740-4922-a13f-7d930b065e20" />
 
+---
 
+**Or you can create a duplicate of a policy you want to tweak**
 <img width="235" height="85" alt="image" src="https://github.com/user-attachments/assets/3f5b0239-657d-46b1-ad83-2c9fc5b3b68c" />
 
+---
 
 <img width="522" height="505" alt="image" src="https://github.com/user-attachments/assets/9b87aea1-9d91-417e-884a-c45152c8b086" />
 
