@@ -63,13 +63,3 @@ SNYPR provides an **isolated sandbox environment** for content developers to cre
 For more information on creating policies in the Sandbox, see **Sandbox**.
 
 ---
-
-## Topics
-
-- [Creating Rule- or Behavior-Based Policies](#)
-- [Creating Identity Policies](#)
-- [Creating Policy Modifications](#)
-- [Policy Examples](#)
-- [Fine-Tuning Noisy Policies](#)
-- [Nested Condition Groups in Policies](#)
-- [Securonix Out-of-the-Box (OOTB) Value Packages for Faster Threat Detection](#)
