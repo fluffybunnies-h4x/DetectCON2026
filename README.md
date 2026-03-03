@@ -354,7 +354,7 @@ Instead of encrypting shellcode (which triggers cryptographic signature detectio
 
 ---
 
-### EDR Impact on AV (What Happened in the Demo?)
+### EDR Impact on Windows Defender
 
 When Crowdstrike was present alongside Windows Defender:
 
@@ -374,7 +374,7 @@ When Crowdstrike was present alongside Windows Defender:
 **Key Takeaways:**
 - Modern AV/EDR solutions **can** be bypassed
 - If researchers can do it, nation-state actors and APTs absolutely can
-- Defense must go beyond relying on a single EDR product
+- Defenders must go beyond relying on EDR
 
 **Recommended Mitigations:**
 - **Defense-in-depth** – layer your controls
