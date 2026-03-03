@@ -36,6 +36,7 @@ Welcome to the **DetectCON 2026 Securonix Workshop**! This guide covers everythi
 
 - **Group Name:** DetectCON Securonix Workshop Ninjas
 - **Code:** `DetectionNinja`
+- **Link:** `https://detections.ai/share/group/YCIFi0So`
 
 ---
 
