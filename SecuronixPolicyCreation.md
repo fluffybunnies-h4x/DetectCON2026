@@ -91,7 +91,7 @@ For more information on creating policies in the Sandbox, see **Sandbox**.
 
 
 ### **Add your Category, Labels and Threat Indicators**
-
+### **Category is similar to MITRE Tactics whereas Threat Indicators are more similar to MITRE Techniques**
 
 <img width="602" height="375" alt="image" src="https://github.com/user-attachments/assets/77e7d1a7-feaf-4579-a7b2-e2200d571efd" />
 
