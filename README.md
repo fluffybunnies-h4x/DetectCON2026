@@ -28,15 +28,15 @@ Welcome to the **DetectCON 2026 Securonix Workshop**! This guide covers everythi
 
 | Field | Value |
 |---|---|
-| **URL** | https://a1t1sipi.securonix.net/Snypr |
-| **Username** | `DetectCON2026` |
-| **Password** | `SuperS3cr3tNinjaSqu!rrel` |
+| **URL** | TBD |
+| **Username** | TBD |
+| **Password** | TBD |
 
 ### Workshop Group
 
-- **Group Name:** DetectCON Securonix Workshop Ninjas
-- **Code:** `DetectionNinja`
-- **Link:** https://detections.ai/share/group/YCIFi0So
+- **Group Name:** TBD
+- **Code:** TBD
+- **Link:** TBD
 
 ---
 
